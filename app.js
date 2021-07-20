@@ -60,7 +60,7 @@
 
     // Mongoose
         mongoose.Promise = global.Promise
-        mongoose.connect(db.mongoURI, {
+        mongoose.connect(db.MONGODB_URI, {
             useNewUrlParser: true,
             useUnifiedTopology: true
         }).then(() => {
