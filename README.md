@@ -1,1 +1,1 @@
-[blog-node](https://blog-node-daniel.herokuapp.com)
+[blog-node](https://blog-node-daniel.herokuapp.com){:target='_blank'}
